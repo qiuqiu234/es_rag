@@ -1,0 +1,9 @@
+python-dotenv
+elasticsearch==8.16.0
+sentence-transformers
+PyPDF2>=3.0.1
+langchain
+openai
+python-docx>=0.8.11
+markdown>=3.4.4
+beautifulsoup4>=4.12.2
